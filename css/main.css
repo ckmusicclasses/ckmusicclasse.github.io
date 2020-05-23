@@ -73,9 +73,9 @@ html {
     text-align: left;
 }
 
-.js {width: 90%; background-color: #4CAF50;}
-.java {width: 80%; background-color: #2196F3;}
-.python {width: 65%; background-color: #f44336;}
+.js {width: 65%; background-color: #4CAF50;}
+.NodeJs {width: 70%; background-color: #2196F3;}
+.React {width: 45%; background-color: #f44336;}
 .database {width: 80%; background-color: #4CAF50;}
 
 .project-card {
