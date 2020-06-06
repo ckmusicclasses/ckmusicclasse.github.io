@@ -12,7 +12,7 @@ html {
 }
 
 .bg-image {
-	background-image: url("../images/background1.jpg");
+	background-image: url("../images/microphone-1.jpg");
 	height: 100%;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -73,7 +73,7 @@ html {
     text-align: left;
 }
 
-.js {width: 65%; background-color: #4CAF50;}
+.js {width: 90%; background-color: #4CAF50;}
 .NodeJs {width: 70%; background-color: #2196F3;}
 .React {width: 45%; background-color: #f44336;}
 .database {width: 80%; background-color: #4CAF50;}
